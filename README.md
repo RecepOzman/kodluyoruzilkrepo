@@ -1,6 +1,7 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-![Repo](https://im.ge/i/r4o1tf)
+<img src="./2/to/img.jpg" alt="Getting started" />
+
 
 ## Installation
 ----

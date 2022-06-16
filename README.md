@@ -1,6 +1,6 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-![](https://im.ge/i/r4o1tf)
+![Repo](https://im.ge/i/r4o1tf)
 
 ## Installation
 ----

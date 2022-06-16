@@ -1,6 +1,6 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-<img src="./2/to/img.jpg" alt="Getting started" />
+![Repo](images/img.jpg)
 
 
 ## Installation
